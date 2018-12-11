@@ -102,7 +102,7 @@ Plots
 - `ATTN_[dropout]_[depth].csv` - evaluated metrics for the Attention models
 - `LSTM_[layers]_[depth].csv` - evaluated metrics for the LSTM models
 
-### Step 4B - Evaluation
+#### Step 4B - Evaluation
 
 ***File*** - `rnn_metrics.py`
 
@@ -117,7 +117,7 @@ Steps Taken -
 - `metrics.csv` - evaluated metrics for the above models
 - `results.pkl` - ROC values for the above models
 
-## Step 5 - Results and Metrics
+### Step 5 - Results and Metrics
 
 ***File*** - `Plots-and-Results.ipynb`
 
