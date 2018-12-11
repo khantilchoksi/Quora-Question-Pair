@@ -1,0 +1,6 @@
+embeddings {
+  tensor_name: "LSTM_1_60_Layer_1/kernel:0"
+}
+embeddings {
+  tensor_name: "LSTM_1_60_Layer_0/kernel:0"
+}

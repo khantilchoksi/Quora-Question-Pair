@@ -1,0 +1,6 @@
+embeddings {
+  tensor_name: "ATTN_0.4_60_Dense_1/kernel:0"
+}
+embeddings {
+  tensor_name: "ATTN_0.4_60_Dense_2/kernel:0"
+}

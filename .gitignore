@@ -1,5 +1,6 @@
-models*
-logs*
+wiki.simple.vec
+qq.oov.vec
+fasttext.pkl
+old*
 *.ipynb_checkpoints*
 *.DS_Store*
-*.csv
